@@ -1,0 +1,6 @@
+File Name: kali Linux.ova
+Size: 13.6 GB
+Created: 02-Desember-2025
+Hypervisor: VirtualBox
+Description: Kali Linux customized (update & upgrade, Tor Browser installed)
+
